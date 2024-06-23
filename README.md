@@ -9,7 +9,7 @@ Foi utilizado o conjunto de contratos auditados pela ferramenta Slither para tre
 
 > [Slither](https://github.com/crytic/slither) [6] é uma ferramenta de análise estática de contratos inteligentes escrita em Solidity. Desenvolvida para detectar vulnerabilidades, otimizar código e garantir a segurança em contratos inteligentes na blockchain Ethereum, o Slither é amplamente utilizado por desenvolvedores e auditores para identificar problemas comuns, como reentrância, estouros de inteiros e falhas de acesso, entre outros. Além de fornecer diagnósticos detalhados sobre o código analisado, ele também oferece sugestões de melhorias, contribuindo para o desenvolvimento de contratos mais seguros e eficientes.
 
-Este dataset contém mais de 400 mil linhas (totalizando em tamanho cerca de 6,5Gb). A tabela abaixo apresenta as colunas e suas descrições. Para este projeto, foram utilizados somente os campos de código fonte e vulnerabilidade detectada usados como contexto e resposta respectivamente.
+Este dataset contém mais de 110 mil linhas (totalizando em tamanho cerca de 6,5Gb). A tabela abaixo apresenta as colunas e suas descrições. Para este projeto, foram utilizados somente os campos de código fonte e vulnerabilidade detectada usados como contexto e resposta respectivamente.
 
 
 | **Coluna**  | **Descrição**                                                                                   |
