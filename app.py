@@ -8,7 +8,7 @@ template= """# <|system|>
 You are a chatbot with the function of returning whether a smart contract contains vulnerabilities. 
 Your responses should only be related to this.
 
-# <|ddl|>
+# <|contract|>
 The smart contract is as follows:
 {contract}
 
